@@ -32,14 +32,13 @@ const Chat = () => {
       <div className="message">
         <img src='./avatar.png' alt="avatar" />
         <div className="text">
-          <span>John doe</span>
           <p>Hey there! How can I help you today?</p>
           <span>10:00 AM</span>
         </div>
       </div>
       <div className="message own">
         <div className="text">
-          <span>John doe</span>
+          <img src='https://tse4.mm.bing.net/th/id/OIP.HrFanMxw7NL_LvjgNLfmGAHaE8?rs=1&pid=ImgDetMain' alt="avatar" />
           <p>Hey there! How can I help you today?</p>
           <span>10:00 AM</span>
         </div>
@@ -47,14 +46,12 @@ const Chat = () => {
       <div className="message">
         <img src='./avatar.png' alt="avatar" />
         <div className="text">
-          <span>John doe</span>
           <p>Hey there! How can I help you today?</p>
           <span>10:00 AM</span>
         </div>
       </div>
       <div className="message own">
         <div className="text">
-          <span>John doe</span>
           <p>Hey there! How can I help you today?</p>
           <span>10:00 AM</span>
         </div>
